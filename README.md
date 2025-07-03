@@ -14,4 +14,4 @@
 
 📫 Reach me at: akinyelealves@gmail.com
 ![GitHub followers](https://img.shields.io/github/followers/akinyelearaujo?style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinyelealves&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinyelearaujo&layout=compact)
